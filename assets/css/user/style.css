@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+
+.green{
+    background-color: rgb(84, 224, 84);
+}
+
+.blue{
+    background-color: rgb(76, 76, 226);
+}
+
+.orange{
+    height: 400px;
+    background-color: rgb(226, 173, 73);
+    padding-top: 190px;
+}
+
+.hidden{
+    display: none !important;
+}
+
+@media (min-width: 992px){
+    
+}
